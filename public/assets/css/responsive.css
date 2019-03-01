@@ -12,6 +12,15 @@
   .why .content h3 {
     font-size: 30px;
   }
+
+  .desktop-hero {
+    display: block;
+  }
+
+  .mobile-hero {
+    display: none;
+  }
+
 }
 
 /* tablets */
@@ -147,4 +156,12 @@
   .contact-form-area h2 {
     font-size: 14px;
   }
+
+  .desktop-hero {
+    display: none;
+  }
+
+  .mobile-hero {
+    display: block;
+  }  
 }
